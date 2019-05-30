@@ -1,6 +1,6 @@
 # Degree
-- degree: Full Stack Webdeveloper Nanodegree
-  uni: Udacity
+- degree: Full Stack Webdeveloper Nanodegree. This is the degree edit
+  uni: Udacity. This is the uni edit
   year: June, 2014 &mdash; January, 2015
-  awards: Most Dedicated Student per Optional Activities Completed
-  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+  # awards:
+  # summary: In summary, a sentence has been added to the degree line and the uni line.
